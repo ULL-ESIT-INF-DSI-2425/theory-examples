@@ -9,6 +9,10 @@ describe("add function tests", () => {
   test("add(-1, 8) returns value 7", () => {
     expect(add(-1, 8)).toBe(7);
   });
+
+  test("add(17, 13) returns value 30", () => {
+    expect(add(17, 13)).toBe(30);
+  });
 });
 
 describe("sub function tests", () => {
