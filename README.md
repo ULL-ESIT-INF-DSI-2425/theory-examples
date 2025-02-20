@@ -8,3 +8,4 @@ También se utiliza para mostrar las diferentes herramientas relacionadas con la
 cubrimiento del código, integración continua, calidad del código y despliegue.
 
 [![CI tests](https://github.com/ULL-ESIT-INF-DSI-2425/theory-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2425/theory-examples/actions/workflows/ci.yml)
+[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2425/theory-examples/badge.svg?branch=main)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2425/theory-examples?branch=main)
